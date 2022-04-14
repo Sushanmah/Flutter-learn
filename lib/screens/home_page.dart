@@ -16,7 +16,6 @@ class HomePage extends StatelessWidget {
           child: Text("flutter Coding just in $days days by  $name"),
         ),
       ),
-      drawer: Drawer(),
     );
   }
 }
